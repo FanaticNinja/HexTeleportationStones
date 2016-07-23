@@ -1,0 +1,5 @@
+name: HexTeleportationStones
+main: org.hexcraft.HexTeleportationStones
+depend: [HexCore]
+version: 0.1.2
+
